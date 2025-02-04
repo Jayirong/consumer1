@@ -1,0 +1,6 @@
+com\anemona\consumer1\config\RestTemplateConfig.class
+com\anemona\consumer1\service\Consumer1Service.class
+com\anemona\consumer1\config\SecurityConfig.class
+com\anemona\consumer1\Consumer1Application.class
+com\anemona\consumer1\model\AlertaMensaje.class
+com\anemona\consumer1\config\Consumer1Config.class
